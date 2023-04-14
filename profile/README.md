@@ -1,6 +1,16 @@
-## Hi there 👋
+# Pridecraft Studios
+We make Minecraft Pride Stuff!
+Some of our projects:
+[PridePack](https://github.com/Pridecraft-Studios/PridePack), [PrideMod](https://github.com/Pridecraft-Studios/PrideMod), [PrideShader](https://youtu.be/dQw4w9WgXcQ), [PrideDatapack](https://youtu.be/dQw4w9WgXcQ), [PrideSounds](https://youtu.be/dQw4w9WgXcQ)
+**Links that redirect to Youtube are projects that have yet to be started.*
+## Screenshots
+Here are some screenshots of what we've been working on recently!
+Pridepack 4.20
+![PridePack 4.20 Isometric Render](https://media.discordapp.net/attachments/1091977141815627946/1092168214030590022/area_render_2_.png?width=585&height=585)
+Pridepack 3.x
 
-we make pride Minecraft stuff, and our development of them is... not the greatest. We're tryna improve tho, i just need time to make things right
+![PridePack 3.x](https://i.imgur.com/w8vFVUB.png)
+![Pridepack 3.x](https://i.imgur.com/FtSnD2P.png)
 
 
 <!--
