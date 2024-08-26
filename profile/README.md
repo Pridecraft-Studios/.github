@@ -12,7 +12,7 @@ You can support the developers of Pridecraft Studios by donating on Patreon
 These are the projects we are currently working on!
 
 ## Pridepack
-[Pridepack](https://modrinth.com/prioject/Pridepack) is our first and most popular project, adding LGBT tweaks to the game in decoration blocks and on some entities, like axolotls, bees, foxes and sniffers. It is also available for Bedrock Edition on [MCPEDL](https://mcpedl.com/pridepack)
+[Pridepack](https://modrinth.com/project/pridepack) is our first and most popular project, adding LGBT tweaks to the game in decoration blocks and on some entities, like axolotls, bees, foxes and sniffers. It is also available for Bedrock Edition on [MCPEDL](https://mcpedl.com/pridepack)
 
 ![Various Pridepack features sitting on a colourful surface.](https://cdn.modrinth.com/data/yPbBrzEX/images/bd6216e3669d2290f943be8ded4ad478a6ec2ce6.png)
 
