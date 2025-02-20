@@ -1,6 +1,10 @@
 blank_issues_enabled: true
 
 contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/orgs/Pridecraft-Studios/discussions
+    about: If you need support, check out the GitHub Discussions page
+
   - name: Pridecraft Discord
     url: https://discord.pridecraft.gay
     about: If you need support, or just want to chat, check out our Discord server.
