@@ -4,32 +4,35 @@ labels: [ 'bug' ]
 type: bug
 
 body:
-  - type: textarea
+  - type: input
     attributes:
-      label: Environment
-      description: |
-        What platform and version of the resource pack are you using?
-
-        Example:
-          - **Minecraft**: 1.21.4
-          - **Resource Pack**: 7.0
-          - **Loader**: Fabric 0.16.10
-          - **Java**: Temurin 21.0.6+7
-
-        Dependencies if applicable:
-          - **Fabric API**: 0.116.1+1.21.4
-          - **Polymer**: 0.11.6+1.21.4
-      value: |
-        - **Minecraft**:
-        - **Resource Pack**:
-        - **Loader**:
-        - **Java**:
-
-        Dependencies if applicable:
-        - **Fabric API**:
-        - **Polymer**:
+      label: Minecraft
+      description: What version of Minecraft are you using?
+      placeholder: e.g., Minecraft 1.21.4
     validations:
       required: true
+
+  - type: input
+    attributes:
+      label: Pack Version
+      description: What version of the pack are you using?
+      placeholder: e.g., 7.0
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Mods, if applicable?
+      description: |
+        If you're using any mods, please give a plain text list or log here.
+        
+        Please include:
+          - The mod loader you are using
+          - The name of each mod
+          - The version of each mod
+      placeholder: e.g., Fabric 0.16.10, followed by your mod list
+    validations:
+      required: false
 
   - type: textarea
     attributes:
